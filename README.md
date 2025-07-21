@@ -2,4 +2,7 @@
 
 List of basic Programming
 
-- prime number
+- Prime Number
+- Factorial
+- ReverseNumber
+- SumOfAllElementsInArray
