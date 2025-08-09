@@ -6,3 +6,8 @@ List of basic Programming
 - Factorial
 - ReverseNumber
 - SumOfAllElementsInArray
+- SortElementsInArray
+- RemoveDuplicateElementInArray
+- SortElementsInArrayDescendingOrder
+- BubbleSort
+- PrintDuplicateElementsInArray
