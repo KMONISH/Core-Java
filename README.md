@@ -2,12 +2,15 @@
 
 List of basic Programming
 
-- Prime Number
-- Factorial
-- ReverseNumber
-- SumOfAllElementsInArray
-- SortElementsInArray
-- RemoveDuplicateElementInArray
-- SortElementsInArrayDescendingOrder
 - BubbleSort
+- Factorial
+- PalindromeNumber
+- PalindromeString
+- PrimeNumber
+- RemoveDuplicateElementInArray
+- ReverseNumber
+- SmallestElementInArray
+- SortElementsInArray
+- SortElementsInArrayDescendingOrder
+- SumOfAllElementsInArray
 - PrintDuplicateElementsInArray
